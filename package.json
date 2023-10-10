@@ -1,6 +1,6 @@
 {
   "name": "sermsphotos",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "相册集",
   "main": "index.js",
   "scripts": {
