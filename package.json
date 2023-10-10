@@ -1,0 +1,22 @@
+{
+  "name": "sermsphotos",
+  "version": "1.0.0",
+  "description": "相册集",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerMs/SerMsPhotos.git"
+  },
+  "keywords": [
+    "相册集"
+  ],
+  "author": "SerMs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerMs/SerMsPhotos/issues"
+  },
+  "homepage": "https://github.com/SerMs/SerMsPhotos#readme"
+}
